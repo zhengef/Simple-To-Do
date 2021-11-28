@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/zhengef/Desktop/CodePath/android_hello_world/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/zhengef/Desktop/CodePath/android_hello_world/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,4,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,108,-1",
+                        "endColumns": "-1,46,-1",
+                        "endOffsets": "-1,150,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,107,154",
+                        "endColumns": "51,46,50",
+                        "endOffsets": "102,149,200"
+                    }
+                },
+                {
+                    "source": "/Users/zhengef/Desktop/CodePath/android_hello_world/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "205,288",
+                        "endLines": "7,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "283,355"
+                    }
+                }
+            ]
+        }
+    ]
+}

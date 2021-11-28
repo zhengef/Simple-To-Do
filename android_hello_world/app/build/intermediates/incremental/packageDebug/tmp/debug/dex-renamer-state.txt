@@ -1,0 +1,7 @@
+#Fri Nov 26 22:53:44 PST 2021
+base.1=/Users/zhengef/Desktop/CodePath/android_hello_world/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+path.1=1/classes.dex
+base.0=/Users/zhengef/Desktop/CodePath/android_hello_world/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

@@ -1,0 +1,4 @@
+codepath/demos/helloworlddemo/HelloWorldActivity.java
+ codepath.demos.helloworlddemo.HelloWorldActivity
+codepath/demos/helloworlddemo/BuildConfig.java
+ codepath.demos.helloworlddemo.BuildConfig
