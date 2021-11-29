@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I will continue to update my project with additional features in the following weeks. I intend to improve the UI of my app and add support for completion due dates.
 
 ## License
 
